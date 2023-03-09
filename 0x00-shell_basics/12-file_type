@@ -1,2 +1,2 @@
 #!/bin/bash
-cat --version /tmp/iamafile
+file /tmp/iamafile
