@@ -1,0 +1,1 @@
+This repo contains some scripts about shell basics
