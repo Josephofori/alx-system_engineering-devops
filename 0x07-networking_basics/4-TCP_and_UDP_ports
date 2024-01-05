@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Scripts to display listening ports
+netsat -lp
